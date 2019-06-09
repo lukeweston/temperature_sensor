@@ -14,5 +14,5 @@ Lakeshore temperature lookup table:
 
 https://www.lakeshore.com/products/categories/specification/temperature-products/cryogenic-temperature-sensors/dt-670-silicon-diodes
 
-![schematic_preview](https://raw.githubusercontent.com/lukeweston/temperature_sensor/master/temperature_sensor_schematic.png | width=1000)
+![schematic_preview](https://raw.githubusercontent.com/lukeweston/temperature_sensor/master/temperature_sensor_schematic.png){ width=50% }
 
